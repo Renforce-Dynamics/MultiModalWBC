@@ -1,5 +1,8 @@
 # Multi-Modal Whole-Body Control
 
+> **M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking**  
+> Zuxing Lu, Ziang Zheng, Yao Lyu, Jingyu Liu, Feihong Zhang, Song Lu, Xin Yuan, Changyin Sun⁺, Xingxing Zuo⁺, Shengbo Eben Li⁺  
+
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](./LICENSE)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
 ![OS Linux](https://img.shields.io/badge/OS-Linux-green.svg)
@@ -18,6 +21,15 @@ The core philosophy of this repository is to treat **whole-body control as a mul
 a robot policy learns to coordinate its full-body dynamics by jointly conditioning on robot-centric states and external motion descriptors such as **human body pose (SMPL-X)** and **SE(3) keypoints**.
 
 The framework currently focuses on **Unitree G1**, but is designed to be extensible to other humanoid or whole-body platforms.
+
+## News
+- (2026-06-03) Our work has been accepted by IEEE Robotics and Automation Letters (RA-L).
+
+## TODO List
+
+- [ ] mjlab version of M3imic.
+- [ ] other optional modality versions of M3imic.
+- [ ] enhanced version.
 
 ## Key Ideas
 
