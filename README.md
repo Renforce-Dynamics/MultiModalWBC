@@ -227,3 +227,13 @@ If you find this work useful for your research, please cite:
     journal={arXiv preprint arXiv:2606.04829}
 }
 ```
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Renforce-Dynamics%2FMultiModalWBC&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Renforce-Dynamics/MultiModalWBC&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Renforce-Dynamics/MultiModalWBC&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Renforce-Dynamics/MultiModalWBC&type=date&legend=top-left" />
+ </picture>
+</a>
