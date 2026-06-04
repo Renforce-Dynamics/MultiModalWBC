@@ -213,3 +213,17 @@ Common options:
 * Isaac Lab components: **BSD-3-Clause**
 * RSL-RL: see `third_party/rsl_rl`
 * Robot assets (e.g., Unitree G1): subject to original licenses
+
+
+## Citation
+
+If you find this work useful for your research, please cite:
+
+```bibtex
+@article{lu2026m3imic,
+    title={M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking},
+    author={Zuxing Lu and Ziang Zheng and Yao Lyu and Jingyu Liu and Feihong Zhang and Song Lu and Xin Yuan and Changyin Sun and Xingxing Zuo and Shengbo Eben Li},
+    year={2026},
+    journal={arXiv preprint arXiv:2606.04829}
+}
+```
