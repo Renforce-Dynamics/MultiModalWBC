@@ -9,6 +9,7 @@
 ![Isaac Sim 4.5](https://img.shields.io/badge/IsaacSim-4.5.0-ff6f00.svg)
 ![Isaac Lab 2.1.1](https://img.shields.io/badge/IsaacLab-2.1.1-3b5cff.svg)
 ![RSL--RL](https://img.shields.io/badge/RSL--RL-integrated-orange.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.04829-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2606.04829)
 
 <p align="center">
   <img src="docs/illustrations/mmwbc.png" alt="Multi-Modal Whole-Body Control" width="80%" />
