@@ -1,4 +1,4 @@
-# Multi-Modal Whole-Body Control
+# Multi-Modal Whole-Body Control (M3imic)
 
 > **M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking**  
 > Zuxing Lu, Ziang Zheng, Yao Lyu, Jingyu Liu, Feihong Zhang, Song Lu, Xin Yuan, Changyin Sun⁺, Xingxing Zuo⁺, Shengbo Eben Li⁺  
